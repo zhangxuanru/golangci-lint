@@ -1608,7 +1608,7 @@ linters-settings:
     # Default: "(export|internal)_test\\.go"
     skip-regexp: (export|internal)_test\.go
     # List of packages that don't end with _test that tests are allowed to be in.
-    # Default: "main"
+    # Default: ["main"]
     allow-packages:
       - example
       - main
