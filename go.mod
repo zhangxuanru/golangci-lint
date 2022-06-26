@@ -55,7 +55,7 @@ require (
 	github.com/ldez/tagliatelle v0.3.1
 	github.com/leonklingele/grouper v1.1.0
 	github.com/lufeee/execinquery v1.2.1
-	github.com/maratori/testpackage v1.0.1
+	github.com/maratori/testpackage v1.1.0
 	github.com/matoous/godox v0.0.0-20210227103229-6504466cf951 // v1.0
 	github.com/mattn/go-colorable v0.1.12
 	github.com/mbilski/exhaustivestruct v1.2.0
@@ -170,7 +170,7 @@ require (
 	golang.org/x/exp/typeparams v0.0.0-20220218215828-6cf2b201936e // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d // indirect
+	golang.org/x/sys v0.0.0-20220615213510-4f61da869c0c // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/ini.v1 v1.66.6 // indirect
